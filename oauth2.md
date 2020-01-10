@@ -13,3 +13,7 @@ client.autoApprove(true)则不需要用户手工授权，或者client.autoApprov
 
 @EnableOauth2sso和@EnableOAuth2Client的区别，理解为@EnableOauth2sso是@EnableOAuth2Client自动配置。@EnableOAuth2Client为手动定义的oauth客户端，
 而@EnableOauth2sso会自动生成@EnableOAuth2Client相关的bean。
+
+
+Httpsecurity
+https://zhuanlan.zhihu.com/p/100326616
