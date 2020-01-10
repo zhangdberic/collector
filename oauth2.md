@@ -17,3 +17,6 @@ client.autoApprove(true)则不需要用户手工授权，或者client.autoApprov
 
 Httpsecurity
 https://zhuanlan.zhihu.com/p/100326616
+
+https://www.jianshu.com/p/ac42f38baf6e?from=singlemessage
+https://blog.csdn.net/u012702547/article/details/89629415
